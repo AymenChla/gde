@@ -1,0 +1,12 @@
+active: true
+derived: false
+level: 1.1
+links:
+- SRD003: b02bafe41d71dfa69e700df0e507062a
+- SRD004: 3be86bb9b253c095fbd5173a0753cf19
+normative: true
+ref: ''
+reviewed: 6b14a29935247810e59570cc41c6e9dd
+status: en cours de rédaction.
+text: |
+  bonjour test
