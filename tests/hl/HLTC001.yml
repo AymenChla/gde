@@ -3,8 +3,9 @@ derived: false
 level: 1.0
 links:
 - SRD002: 8b705a0a691327cd6dfe39902e3f10d6
+- SRD003: b02bafe41d71dfa69e700df0e507062a
 normative: true
 ref: CODE001
-reviewed: 87d74b70287507b5e2f5959368d5e2de
+reviewed: 688581d84b63d837396da1a3d14cb3a1
 text: |
-  # ouiouiouiouoiuosasasasa
+  L'outil doit afficher les différences entre deux versions d'exigences
